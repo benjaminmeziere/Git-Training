@@ -1,2 +1,3 @@
 # Git-Training
-Bonjour, je suis un README
+Bonjour, je suis un README et je parle
+
